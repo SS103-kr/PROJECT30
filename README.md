@@ -9,7 +9,7 @@
 ## 📸 서비스 미리보기
 
 ### 🎯 메인 랜딩 페이지 (Hero)
-![ThinkPick Hero Banner](./image/hero.png)
+<img src="./image/hero.png" width="600" alt="ThinkPick Hero Banner" />
 
 ---
 
@@ -28,18 +28,21 @@
 
 ### 1️⃣ STEP 0. 온보딩 및 아이디어 구체화 (재료 수집)
 - 초기 한 줄 아이디어를 입력하면 AI가 맥락을 분석하고 더 풍부한 기획을 위해 스마트한 꼬리질문(Follow-up)을 제공합니다.
-![Step 0. 온보딩](./image/step0.png)
+
+<img src="./image/step0.png" width="500" alt="Step 0. 온보딩" />
 
 ### 2️⃣ STEP 1. 미니 기획안 작성 (1p 분량)
 - 린 스타트업 기반의 핵심 6개 질문에 7지선다 선택지를 골라가며 빠르게 뼈대를 구축합니다.
 - 완료 시 즉시 다운로드 가능한 **1p 미니 기획안**을 생성해 드립니다.
-![Step 1. 기획안 선택](./image/step1.png)
-![Step 1. 미니 기획안 상세](./image/step1d.png)
+
+<img src="./image/step1.png" width="500" alt="Step 1. 기획안 선택" />
+<img src="./image/step1d.png" width="500" alt="Step 1. 미니 기획안 상세" />
 
 ### 3️⃣ STEP 2. 기획안 확장 (2p 분량 / 무료 제공)
 - 10개의 추가 질문을 해결하여 전체적인 사업의 숲(구조도)을 시각화합니다.
 - 깊이 있는 시장 리스크 및 구체적인 사업 실행 계획 구조를 시각적으로 한눈에 파악할 수 있습니다.
-![Step 2. 기획안 확장](./image/step2e.png)
+
+<img src="./image/step2e.png" width="500" alt="Step 2. 기획안 확장" />
 
 ---
 
